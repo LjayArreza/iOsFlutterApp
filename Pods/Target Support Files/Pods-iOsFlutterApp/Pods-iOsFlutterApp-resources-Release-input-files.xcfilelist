@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-iOsFlutterApp/Pods-iOsFlutterApp-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/image_picker_ios/image_picker_ios_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/shared_preferences_foundation/shared_preferences_foundation_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/url_launcher_ios/url_launcher_ios_privacy.bundle
